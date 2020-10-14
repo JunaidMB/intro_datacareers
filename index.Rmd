@@ -1,8 +1,8 @@
 ---
 title       : Introduction to Data Careers
-subtitle    : What is Data Science
+subtitle    : An Overview of Data Science
 author      : Junaid Butt
-job         : Data Scientist at IBM
+job         : Data Scientist
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
