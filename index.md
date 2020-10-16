@@ -284,6 +284,18 @@ This would traditionally be a Data Engineer's job.
   - Many more
 * Many start ups are also hiring for data related roles. I would recommend careful deliberation when considering taking a data focused role at a start up if you're inexperienced. I wrote a blog post about it!
 
+--- .class #id
+
+## Discussion Questions
+
+1. You work at a SAAS company and your product manager comes to you and says "Signups to the platform are down to the lowest point of the year - what's happening?". What steps do you take to look into this?
+
+2. Uses of your product have been declining recently - you suspect it is because customers are displeased with the customer experience, your CEO remarks "It makes no sense, our NPS scores are very high". What is the problem with this statement? How would you investigate what's happening?
+
+3. You work at a Newspaper and have built a new recommendation engine which suggests stories to users as they browse through your website. One of the journalists feels that the new algorithm does not promote their articles fairly with respect to others and has scheduled a meeting with you to speak about this - how do you prepare for this meeting?
+
+4. If you don't like the look of any of the above - solve this $$ f(x) = \int_{-\infty}^{\infty} e^{-\frac{1}{2}x^2} dx $$
+
 --- .segue bg:grey
 
 ## Thank you!
