@@ -287,6 +287,7 @@ This would traditionally be a Data Engineer's job.
 --- .class #id
 
 ## Discussion Questions
+### Choose a Question in Groups and Have a Go!
 
 1. You work at a SAAS company and your product manager comes to you and says "Signups to the platform are down to the lowest point of the year - what's happening?". What steps do you take to look into this?
 
@@ -294,7 +295,7 @@ This would traditionally be a Data Engineer's job.
 
 3. You work at a Newspaper and have built a new recommendation engine which suggests stories to users as they browse through your website. One of the journalists feels that the new algorithm does not promote their articles fairly with respect to others and has scheduled a meeting with you to speak about this - how do you prepare for this meeting?
 
-4. If you don't like the look of any of the above - solve this $$ f(x) = \int_{-\infty}^{\infty} e^{-\frac{1}{2}x^2} dx $$
+4. If you don't like the look of any of the above - solve this $latex f(x) = \int_{-\infty}^{\infty} e^{-\frac{1}{2}x^2} dx $
 
 --- .segue bg:grey
 
