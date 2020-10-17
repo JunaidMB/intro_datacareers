@@ -56,7 +56,7 @@ knit        : slidify::knit2slides
 
 * There are multiple roles available in Data Science and it can be confusing to tell them apart.
 
-* For the purposes of this talk we're going to centre our discussion around 3 major archetypes. 
+* For the purposes of this talk we're going to centre our discussion around 3 major archetypes. To avoid confusion, I'm going to use the umbrella term "data person" when referring to all these roles.
 
 * Since the definition of Data Science is not very precise or exclusive, there will be fluidity and overlap between these roles.
 
