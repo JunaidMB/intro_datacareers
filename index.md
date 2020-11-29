@@ -108,7 +108,7 @@ knit        : slidify::knit2slides
 
 ## What types of jobs exist in Data Science today?
 
-<img src="assets/img/facebook_mlengineer_job_description.png" title="plot of chunk unnamed-chunk-5" alt="plot of chunk unnamed-chunk-5" width="550px" height="550px" style="display: block; margin: auto auto auto 0;" />
+<img src="assets/img/facebook_mlengineer_job_description.png" title="plot of chunk unnamed-chunk-5" alt="plot of chunk unnamed-chunk-5" width="550px" height="500px" style="display: block; margin: auto;" />
 
 --- .class #id
 
@@ -269,7 +269,7 @@ This would traditionally be a Data Engineer's job.
 
 2. Uses of your product have been declining recently - you suspect it is because customers are displeased with the customer experience, your CEO remarks "It makes no sense, our NPS scores are very high". What is the problem with this statement? How would you investigate what's happening?
 
-3. You work at a Newspaper and have built a new recommendation engine which suggests stories to users as they browse through your website. One of the journalists feels that the new algorithm does not promote their articles fairly with respect to others and has scheduled a meeting with you to speak about this - how do you prepare for this meeting?
+3. You work at a newspaper and have built a new recommendation engine which suggests stories to users as they browse through your website. One of the journalists feels that the new algorithm does not promote their articles fairly with respect to others and has scheduled a meeting with you to speak about this - how do you prepare for this meeting?
 
 4. If you don't like the look of any of the above - solve this $latex f(x) = \int_{-\infty}^{\infty} e^{-\frac{1}{2}x^2} dx $
 

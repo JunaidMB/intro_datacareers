@@ -118,7 +118,7 @@ knitr::include_graphics("assets/img/tractable_mlengineer_job_description2.png")
 
 ## What types of jobs exist in Data Science today?
 
-```{r, fig.align='left',out.height = "550px", out.width="550px", echo=FALSE}
+```{r, fig.align='center',out.height = "500px", out.width="550px", echo=FALSE}
 knitr::include_graphics("assets/img/facebook_mlengineer_job_description.png")
 ```
 
