@@ -25,13 +25,17 @@ knit        : slidify::knit2slides
 4. How do I get into Data Science?
 5. Who's Hiring?
 
+--- .segue bg:grey
+
+## Why Should I Care?
+
 --- .class #id 
 
 ## What is Data Science? 
 
 * The term 'Data Science' was first coined by DJ Patil (LinkedIn) and Jeff Hammerbacher (Facebook).
 
-  "_I was at LinkedIn building the data team and Jeff     Hammerbacher was bustling at Facebook's data team... One of the things we realised was that we didn't know what to call ourselves...Do you call yourself an analyst? It feels too Wall Street. A research scientist or statistician? Feels too academic..._" - **DJ Patil**
+  "_I was at LinkedIn building the data team and Jeff Hammerbacher was bustling at Facebook's data team... One of the things we realised was that we didn't know what to call ourselves...Do you call yourself an analyst? It feels too Wall Street. A research scientist or statistician? Feels too academic..._" - **DJ Patil**
 
   "_The most important thing is how you use data to interact with the world, study it and try to come up with new things..._" - **DJ Patil**
 
@@ -102,13 +106,7 @@ knit        : slidify::knit2slides
 
 ## What types of jobs exist in Data Science today?
 
-<img src="assets/img/tractable_mlengineer_job_description1.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" width="450px" height="450px" style="display: block; margin: auto;" /><img src="assets/img/tractable_mlengineer_job_description2.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" width="450px" height="450px" style="display: block; margin: auto;" />
-
---- .class #id
-
-## What types of jobs exist in Data Science today?
-
-<img src="assets/img/facebook_mlengineer_job_description.png" title="plot of chunk unnamed-chunk-5" alt="plot of chunk unnamed-chunk-5" width="550px" height="500px" style="display: block; margin: auto;" />
+<img src="assets/img/facebook_mlengineer_job_description.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" width="550px" height="500px" style="display: block; margin: auto;" />
 
 --- .class #id
 
@@ -146,21 +144,21 @@ This would traditionally be a Data Engineer's job.
   1. Fundamental - We require databases and require skills like SQL to deal with data that can't be held in spreadsheets.
   2. Programming languages like Python/ R/ Julia are necessary to extract, transform, model and visualise data.
   3. Visualisation tools like Tableau/ Looker.
-  4. What about purpose built tools like SPSS, Alteryx, etc? 
+  4. What about purpose built tools like SPSS, Alteryx, etc? What about other programming languages?
 
 --- .class #id
 
 ## What are the skills required to be an effective Data Scientist?
 
 * Statistical Literacy:
-  1. Once we have good data and tools for analysing data we need an understanding how to effectively interrogate our data.
+  1. Once we have good data and tools for analysing data we need an understanding of how to effectively interrogate our data.
   2. The general Data Science workflow can be described by the PPDAC cycle
 
 
 --- .class #id
 ## What are the skills required to be an effective Data Scientist?
 
-<img src="./assets/img/ppdac_cycle.png" title="plot of chunk unnamed-chunk-6" alt="plot of chunk unnamed-chunk-6" width="550px" height="500px" style="display: block; margin: auto;" />
+<img src="./assets/img/ppdac_cycle.png" title="plot of chunk unnamed-chunk-5" alt="plot of chunk unnamed-chunk-5" width="550px" height="500px" style="display: block; margin: auto;" />
 
 --- .class #id
 
